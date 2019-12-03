@@ -12,6 +12,14 @@
 ---19/12/3补
 ### 界面设计
 
+![]( https://github.com/1291945816/PE-/tree/master/image/界面设计.png)
+
+
+
 ### 实际运行效果
 
+![]( https://github.com/1291945816/PE-/tree/master/image/运行样例.png)
+
 ### 目录结构
+
+![]( https://github.com/1291945816/PE-/tree/master/image/结构布局.png)
