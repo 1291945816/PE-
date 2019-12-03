@@ -18,7 +18,7 @@
 
 ### 实际运行效果
 
-![]( https://github.com/1291945816/PE-/tree/master/image/运行样例.png)
+![](https://github.com/1291945816/PE-/blob/master/image/%E8%BF%90%E8%A1%8C%E6%A0%B7%E4%BE%8B.png)
 
 ### 目录结构
 
