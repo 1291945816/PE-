@@ -12,7 +12,7 @@
 ---19/12/3补
 ### 界面设计
 
-![]( https://github.com/1291945816/PE-/tree/master/image/界面设计.png)
+![](https://github.com/1291945816/PE-/blob/master/image/%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1.png)
 
 
 
